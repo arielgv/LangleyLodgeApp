@@ -46,7 +46,7 @@ To visualize and interact with the code, you need Visual Studio Code:
 The project also requires the Shopify dependency, which can be installed via pip, Python's package installer:
 
 1. Open a terminal/command prompt window.
-2. Run the following command: `pip install shopify`
+2. Run the following command: `pip install ShopifyAPI`
 
 _**Note:** These installations, including the Shopify dependency, only need to be done once._
 
