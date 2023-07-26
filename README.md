@@ -55,10 +55,10 @@ _**Note:** These installations, including the Shopify dependency, only need to b
 After downloading and extracting the repository, follow these steps to prepare your project:
 
 1. Navigate to the following URL: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1IT0gCm4h_pYmKRQIGjpctvUrxP-3TY_Mk9fg0ONpXc4/edit#gid=0)
-2. Click on `File` > `Download` > `Microsoft Excel (.xlsx)`.
-3. Open the downloaded Excel file and save it as a CSV (comma-separated values) file.
-4. Rename this CSV file as "new.csv".
-5. Move "new.csv" into the same folder where you extracted the repository files.
+2. Click on `File` > `Download` > `Comma Separated Values(.csv)`.
+3. Rename this CSV file as "main.csv".
+4. Move "main.csv" into the same folder where you extracted the repository files(Same folder as the Synchro.ipynb).
+
 
 ## Program Operation
 
@@ -68,6 +68,13 @@ To run the program, follow these steps:
 2. Click `File` > `Open Folder` and select the folder where you extracted the repository files.
 3. Open the `Synchro.ipynb`  file.
 4. Follow the instructions in the script comments to successfully run the program.
+   * If a pop-up from Visual Studio Code suggests installing an add-on, click on Install and wait for it to install automatically.
+
+You can execute each code cell by positioning yourself on the rectangle that contains the block of code. A "play" arrow will appear just to the left of it, click on each block to execute them.
+
+On its first run, it may ask if you want to install the Jupyter + Python add-on. Accept and install the suggested extension.
+
+If another pop-up appears the first time it is run, also click on Install. These pop-ups are characteristic of the first run on a computer.
 
 At this point, the program should execute as expected and perform its tasks automatically.
 
