@@ -66,7 +66,7 @@ To run the program, follow these steps:
 
 1. Open the Visual Studio Code application.
 2. Click `File` > `Open Folder` and select the folder where you extracted the repository files.
-3. Open the `Synchro.ipynb`  file.
+3. Open the `Synchro v2.ipynb`  file.
 4. Follow the instructions in the script comments to successfully run the program.
    * If a pop-up from Visual Studio Code suggests installing an add-on, click on Install and wait for it to install automatically.
 
